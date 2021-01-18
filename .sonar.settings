@@ -1,0 +1,3 @@
+sonar.sources=.
+# repository with compiled code, excluding
+sonar.exclusions=**/*
